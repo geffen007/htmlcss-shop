@@ -22,7 +22,8 @@ margin: 0 auto;
     margin-top: 5px;
     position: relative;
 }
-.square:hover .smile {
+.square:hover .smile img{
+    opacity: 1;
 }
 
 .like{
